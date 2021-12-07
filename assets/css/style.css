@@ -1,0 +1,147 @@
+body{
+    background: black;
+}
+div.container {
+    background: white;
+    width: 100%;
+    padding-right: 0px;
+    padding-left: 0px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#imagen {
+    border-radius: 100%;
+    width: 100%;
+    float: right;
+    
+    
+}
+.first-heading {
+	display: flex;
+    margin-left: 5%;
+    padding-top: 10%;
+}
+.right-part {
+    margin-right: 5px;
+}
+.left-part,
+.right-part {
+	padding: 5px;
+}
+span {
+    color: gray;
+}
+h1 {
+    color: black;
+}
+p {
+    color: black;
+}
+div.container .project-photo{
+    margin-top: 5px;
+    display: flex;
+    flex-direction: row;
+}
+div.project .thing-1{
+    width: 33%;
+    margin-right: 5%;
+    margin-left: 5%;
+}
+div.project .thing-2{
+    width: 33%;
+    margin-right: 5%;
+}
+div.project .thing-3{
+    width: 33%;
+    margin-right: 5%; 
+}
+
+#foto {
+width: 100%;
+}
+h2 {
+    color: cornflowerblue;
+}
+
+.second-heading {
+    display: flex;
+    margin-left: 5%;
+    padding-top: 10%;
+}
+#imagen2 {
+    border-radius: 100%;
+    width: 100%;
+    float: left;
+ }
+ 
+.left-part2,
+.right-part2 {
+    padding: 5px;
+}
+
+.headline {
+    width: 100%;
+    height: 100%;
+    display:block;
+}
+.centrado1 {
+    position: absolute;
+    background-color: rgb(242, 244, 250);
+    font-size: 500%;
+    bottom: 500px;
+    right: auto;
+    left: auto;
+    width: 75%;
+    text-align: center;
+    
+}
+
+.centrado2 {
+    position: absolute;
+    background-color: rgb(242, 244, 250);
+    font-size: 300%;
+    bottom: 400px;
+    right: auto;
+    left: auto;
+    width:75%;
+    text-align: center;
+
+}
+
+.portafolio {
+    margin-left: 5%;
+    padding-top: 10%;
+}
+
+.contact {
+    margin-left: 5%;
+    padding-top: 5%;
+}
+button {
+    float: right;
+}
+
+ #tagline {
+    max-width: 100%;
+    clip-path: inset(50% 0 0 0)
+    
+}
+
+form {
+    width: 80%;
+    background: rgb(231, 226, 226);
+    display: block;
+    margin: auto;
+    
+}
+button {
+    margin-right: 2%;
+}
+p1 {
+    color: black;
+}
+
+p2 {
+    color: black;
+}
