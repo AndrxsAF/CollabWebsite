@@ -2,7 +2,7 @@ body{
     background: black;
 }
 div.container {
-    background: white;
+    background: rgb(190, 189, 189);
     width: 100%;
     padding-right: 0px;
     padding-left: 0px;
